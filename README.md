@@ -28,3 +28,5 @@ content = re.sub(r'https?:\/\/.*[\r\n]*', '', content)
 [GAN](https://colab.research.google.com/drive/16nz1kgwK_gTR4ym6YlPv_Q65C35A_84q)
 
 [W2V1](https://colab.research.google.com/drive/1CG5jxuIxVSPwsTQxx4cdzYG1Vm5FBauc)
+
+[GAN1](https://colab.research.google.com/drive/1It_PjuxqeV4jWKyxOlLkJvgYvW2uUM0x)
