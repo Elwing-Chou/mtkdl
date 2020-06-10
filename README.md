@@ -30,3 +30,10 @@ content = re.sub(r'https?:\/\/.*[\r\n]*', '', content)
 [W2V1](https://colab.research.google.com/drive/1CG5jxuIxVSPwsTQxx4cdzYG1Vm5FBauc)
 
 [GAN1](https://colab.research.google.com/drive/1It_PjuxqeV4jWKyxOlLkJvgYvW2uUM0x)
+
+## 練習colab(0610)
+
+[w2v](https://colab.research.google.com/drive/1-h_qSJFwfHaJsg2boTX8hIevOSuGqjni?usp=sharing)
+
+[gan](https://colab.research.google.com/drive/14pGRtMZbGZ9wTuVKV2Gof59SP_GEwDUW?usp=sharing)
+
