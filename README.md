@@ -54,3 +54,5 @@ df
 ## 練習colab(0419)
 
 [w2v](https://colab.research.google.com/drive/1dEuN_e6dT81axdT_QkrWBTCZyKnDfNOo?usp=sharing)
+
+[fasttext](https://colab.research.google.com/drive/1EVt3U7ddQUWokb-ZyZonbsPwkzl-x7O5?usp=sharing)
