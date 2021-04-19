@@ -20,7 +20,18 @@ filter(lambda x: x not in punct, jieba.cut(content))
 ```python
 content = re.sub(r'https?:\/\/.*[\r\n]*', '', content)
 ```
+### 預處
 
+```python
+import re
+def process(content):
+    content = re.sub(r'https?:\/\/.*[\r\n]*', '', content)
+    punct = set(u''':!),.:;?]}¢'"、。〉》」』】〕〗〞︰︱︳﹐､﹒﹔﹕﹖﹗﹚﹜﹞！），．：；？｜｝︴︶︸︺︼︾﹀﹂﹄﹏､～￠々‖•·ˇˉ―--′’”([{£¥'"‵〈《「『【〔〖（［｛￡￥〝︵︷︹︻︽︿﹁﹃﹙﹛﹝（｛“‘-—_…~/ －＊➜■─★☆=@<>◉é''')
+    cut = filter(lambda x: x not in punct, jieba.cut(content))
+    return " ".join(cut)
+df["content"] = df["content"].apply(process)
+df
+```
 
 ## 練習colab(0610)
 
