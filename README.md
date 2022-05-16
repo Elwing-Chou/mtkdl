@@ -66,3 +66,5 @@ df
 [fasttext](https://colab.research.google.com/drive/1EVt3U7ddQUWokb-ZyZonbsPwkzl-x7O5?usp=sharing)
 
 [gan](https://colab.research.google.com/drive/1rAMXL6_DntspegCoYspTRW2gnMGFK23d?usp=sharing)
+
+[Face(GPU)](https://colab.research.google.com/drive/1Fdzjw0Rh4ZzRVDvObKAskPAY4AHP-2za?usp=sharing)
