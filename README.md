@@ -58,3 +58,11 @@ df
 [fasttext](https://colab.research.google.com/drive/1EVt3U7ddQUWokb-ZyZonbsPwkzl-x7O5?usp=sharing)
 
 [gan](https://colab.research.google.com/drive/1QfQpxpzzcm0HtasitGuLhoZ3ZM4yKOkF?usp=sharing)
+
+## 練習colab(0516)
+
+[w2v](https://colab.research.google.com/drive/1N8P6gjZ8Jx5Pm3Ty8lgh7FzFhfOreeeu?usp=sharing)
+
+[fasttext](https://colab.research.google.com/drive/1EVt3U7ddQUWokb-ZyZonbsPwkzl-x7O5?usp=sharing)
+
+[gan](https://colab.research.google.com/drive/1rAMXL6_DntspegCoYspTRW2gnMGFK23d?usp=sharing)
