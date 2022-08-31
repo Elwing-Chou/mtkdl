@@ -68,3 +68,7 @@ df
 [gan](https://colab.research.google.com/drive/1rAMXL6_DntspegCoYspTRW2gnMGFK23d?usp=sharing)
 
 [Face(GPU)](https://colab.research.google.com/drive/1Fdzjw0Rh4ZzRVDvObKAskPAY4AHP-2za?usp=sharing)
+
+## 練習colab(0831)
+
+[w2v](https://colab.research.google.com/drive/1cC0T9L6RSFw7UVJS9BmlBFvh8STuyBZD?usp=sharing)
