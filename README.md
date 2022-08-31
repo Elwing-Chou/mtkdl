@@ -74,3 +74,5 @@ df
 [w2v](https://colab.research.google.com/drive/1cC0T9L6RSFw7UVJS9BmlBFvh8STuyBZD?usp=sharing)
 
 [fasttext](https://colab.research.google.com/drive/1EVt3U7ddQUWokb-ZyZonbsPwkzl-x7O5?usp=sharing)
+
+[Face(GPU)](https://colab.research.google.com/drive/1Fdzjw0Rh4ZzRVDvObKAskPAY4AHP-2za?usp=sharing)
